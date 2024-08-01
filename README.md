@@ -2,4 +2,4 @@
 - 👀 I’m interested in hackathons, problem-solving, web development, data science, ML, personal growth and entrepreneurship.
 - 🎓 I’m currently studying B.Sc. Information Systems @TUM.
 - 🤖 Solo developer and founder of JobBot (www.jobbot.de)
-- 📫 How to reach me: git or "schultzmoritz@gmail.com".
+- 📫 How to reach me: git or "schultzmoritz[at]gmail.com".
