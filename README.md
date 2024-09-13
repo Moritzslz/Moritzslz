@@ -3,3 +3,4 @@
 - 🎓 I’m currently studying B.Sc. Information Systems @TUM.
 - 🤖 Solo developer and founder of JobBot (www.jobbot.de)
 - 📫 How to reach me: git or "schultzmoritz[at]gmail.com".
+- 👨🏼‍💻 Tech stack: Java (Main), Python, Vue, a little bit of React and TypeScript, JS, HTML, CSS and ChatGPT 😜
