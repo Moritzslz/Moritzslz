@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moritzslz
 - 👀 I’m interested in hackathons, problem-solving, web development, data science, ML, personal growth and entrepreneurship.
 - 🎓 I’m currently studying B.Sc. Information Systems @TUM.
-- 🤖 Solo developer and founder of JobBot (www.jobbot.de)
+- 🤖 Solo developer and founder of JobBot (www.jobbot.de; https://www.youtube.com/watch?v=R3LgkAqZJfU) 
 - 📫 How to reach me: git or "schultzmoritz[at]gmail.com".
 - 👨🏼‍💻 Tech stack: Java (Main), Python, Vue, a little bit of React and TypeScript, JS, HTML, CSS and ChatGPT 😜
