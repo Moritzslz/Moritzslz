@@ -1,7 +1,32 @@
-- 👋 Hi, I’m @Moritzslz
-- 👀 I’m interested in hackathons, problem-solving, web development, data science, ML, personal growth and entrepreneurship.
-- 🎓 I’m currently studying B.Sc. Information Systems @TUM.
-- 🤖 Solo developer and founder of JobBot (www.jobbot.de; https://www.youtube.com/watch?v=R3LgkAqZJfU)
-- 📈 Co-Founder and CTO of FlowSuite/MailFlow (www.flow-suite.de)
-- 📫 How to reach me: git or "schultzmoritz[at]gmail.com".
-- 👨🏼‍💻 Tech stack: Java (Main), Python, Vue, a little bit of React and TypeScript, JS, HTML, CSS and ChatGPT 😜
+# Hi, I'm Moritz 👋  
+
+🚀 **Solutions Architect Intern @ AWS** | 💡 **Co-Founder & CTO @ mailflow** | 🎓 **B.Sc. Information Systems @ TUM**  
+
+I’m passionate about **cloud architecture, AI, and building scalable products**. My experience spans **enterprise cloud solutions**, **GenAI startups**, and **award-winning hackathon projects**.  
+
+---
+
+### 🔑 Highlights
+- **AWS (Solutions Architect Intern):** Co-developed Generative AI workshop, contributed to Bedrock Chat repo, led cost/security optimizations saving 25%.  
+- **mailflow (Co-Founder & CTO):** Built GenAI email automation platform handling 10k+ emails/day with 500% lower infra costs.  
+- **Lilium (Cloud & Data Intern):** Built 20GB+ data visualization tools, optimized large-scale processing by 200%.  
+- **JobBot:** AI-powered resume & cover letter assistant with 150+ users (Spring Boot, Vue.js, PostgreSQL, Docker).  
+- **Hackathons & Awards:** 🏆 1st place @ START Hack (Grocerly), 🎖 Top 3 @ VGI Challenge, 🚗 Porsche Award for Digital Innovation.  
+
+---
+
+### 📄 Resumes
+- 🎯 [Short Resume (2 pages)](link-to-short-resume.pdf) – recruiter-ready version  
+- 📚 [Long Resume (full detail)](link-to-long-resume.pdf) – extended version  
+
+---
+
+### 🔗 Featured Projects
+- [**JobBot**](https://www.jobbot.de) – AI Resume & Cover Letter Assistant  
+- [**mailflow**](https://www.mail-flow.com) – GenAI Email Automation Platform  
+- [**Grocerly**](https://github.com/Moritzslz/START-meal-tracking) – ML nutrition app (1st place START Hack)  
+- [**Medsync**](https://github.com/Moritzslz/Medsync-msg) – Electronic patient file backend (Hackathon project)  
+
+---
+
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/moritz-schultz/)
