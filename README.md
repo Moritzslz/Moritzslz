@@ -15,12 +15,6 @@ I’m passionate about **cloud architecture, AI, games and building scalable pro
 
 ---
 
-### 📄 Resumes
-- 🎯 [Short Resume (2 pages)](link-to-short-resume.pdf) – recruiter-ready version  
-- 📚 [Long Resume (full detail)](link-to-long-resume.pdf) – extended version  
-
----
-
 ### 🔗 Featured Projects
 - [**JobBot**](https://www.jobbot.de) – AI Resume & Cover Letter Assistant  
 - [**mailflow**](https://www.mail-flow.com) – GenAI Email Automation Platform  
