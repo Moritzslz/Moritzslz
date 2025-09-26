@@ -8,7 +8,7 @@ I’m passionate about **cloud architecture, AI, games and building scalable pro
 
 ### 🔑 Highlights
 - **AWS (Solutions Architect Intern):** Co-developed Generative AI workshop, contributed to open source [Bedrock Chat repo](https://github.com/aws-samples/bedrock-chat). 
-- **mailflow (Co-Founder & CTO):** Built GenAI email automation platform handling 10k+ emails/day with 500% lower infra costs.  
+- **mailflow (Co-Founder & CTO):** Built GenAI email automation platform handling 10k+ emails/day with low infra costs.  
 - **Lilium (Cloud & Data Intern):** Built 20GB+ data visualization tools, optimized large-scale processing by 200%.  
 - **JobBot:** AI-powered resume & cover letter assistant with 150+ users (Spring Boot, Vue.js, PostgreSQL, Docker).  
 - **Hackathons & Awards:** 🏆 1st place @ START Hack (Grocerly), 🎖 Top 3 @ VGI Challenge, 🚗 Porsche Award for Digital Innovation.  
